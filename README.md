@@ -147,6 +147,7 @@ Full Stack Web Developer | React & MERN Enthusiast
 
 🔗 **GitHub:** [github.com/abx15](https://github.com/abx15)  
 💼 **Portfolio:** [View Portfolio](https://arun15dev.netlify.app/)
+
 🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/arun-kumar-a3b047353/)
 
 📌 Passionate about building modern, scalable web applications using  
